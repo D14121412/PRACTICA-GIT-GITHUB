@@ -13,6 +13,18 @@ header {
 	padding: 20px;
 }
 
+h4 {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.logo {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
 /* Estilos de la barra de navegación */
 nav {
 	background-color: #333;
